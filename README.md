@@ -91,9 +91,16 @@ void led_blink()
 
 ## Output  :
 
+![image](https://github.com/user-attachments/assets/7f90d7c1-00c2-49f9-9c50-c5dcc99828ce)
+
+
  
-## layout of the circuit 
+## layout of the circuit :
+
+
  
+ ![image](https://github.com/user-attachments/assets/5b7edc32-7905-4862-a845-490f932188ff)
+
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
